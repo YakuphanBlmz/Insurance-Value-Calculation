@@ -1,0 +1,7 @@
+{
+  "name": "Kasko AI",
+  "description": "Yapay zeka destekli araç ruhsatı okuma ve kasko değeri hesaplama sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
